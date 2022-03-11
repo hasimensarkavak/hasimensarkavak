@@ -10,6 +10,8 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasimensarkavak&layout=compact)](https://github.com/hasimensarkavak/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasimensarkavak&theme=tokyonight)
+
 
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasimensarkavak)](https://github.com/hasimensarkavak/github-readme-stats) -->
