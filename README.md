@@ -6,7 +6,7 @@
 ## :telephone_receiver: Contact Me:
 
 
-<a href="mailto:hasimensarkavak@gmail.com"><img src="icons/email.png"></a>  <a href="https://www.linkedin.com/in/hasimensarkavak/"><img src="icons/linkedin.png"></a> <a href="https://www.instagram.com/ensar__kavak/"><img width="64" height="64" src="icons/instagram.png"></a>  
+<a href="mailto:hasimensarkavak@gmail.com"><img src="icons/email.png"></a>  <a href="https://www.linkedin.com/in/hasimensarkavak/"><img src="icons/linkedin.png"></a> <a href="https://www.instagram.com/ensar__kavak/"><img width="70" height="70" src="icons/instagram.png"></a>  
 
 
 <!--
