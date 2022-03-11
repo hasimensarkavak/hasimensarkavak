@@ -4,7 +4,7 @@
 * 🌱 I’m currently learning everything i wonder :stuck_out_tongue_winking_eye:
 
 
-![email](/assets/icons/email.png)
+![email](icons/email.png)
 
 
 <!--
