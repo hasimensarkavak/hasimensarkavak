@@ -1,4 +1,4 @@
-# Hi, I'm Ensar 👋
+## Hi, I'm Ensar 👋
 
 * 🔭 I’m currently DEU Computer Science student (3/4) 📝
 * 🌱 I’m currently learning everything i wonder :stuck_out_tongue_winking_eye:
@@ -6,7 +6,7 @@
 ## :telephone_receiver: Contact Me:
 
 
-<a href="mailto:hasimensarkavak@gmail.com"><img src="icons/email.png"></a>
+<a href="mailto:hasimensarkavak@gmail.com"><img src="icons/email.png"></a> <a href="https://www.linkedin.com/in/hasimensarkavak/"><img src="icons/linkedin.png"></a>
 
 
 <!--
