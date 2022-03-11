@@ -1,7 +1,7 @@
 ### Hi, I'm Ensar 👋
 
 * 🔭 I’m currently DEU Computer Science student (3/4) 📝
-* 🌱 I’m currently learning evrything 😄
+* 🌱 I'm currently learning everything i interests :stuck_out_tongue_winking_eye:
 
 <!--
 **hasimensarkavak/hasimensarkavak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
