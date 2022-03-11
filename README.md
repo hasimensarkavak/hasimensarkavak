@@ -5,7 +5,6 @@
 
 ## :telephone_receiver: Contact Me:
 
---------------------------
 
 <a href="mailto:hasimensarkavak@gmail.com"><img src="icons/email.png"></a>
 
