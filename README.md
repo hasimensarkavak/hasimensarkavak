@@ -3,7 +3,7 @@
 * 🔭 I’m currently DEU Computer Science student (3/4) 📝
 * 🌱 I’m currently learning everything i wonder :stuck_out_tongue_winking_eye:
 
-../assets/icons/email.png
+/icons/email.png
 
 
 
