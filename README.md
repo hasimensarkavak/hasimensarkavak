@@ -4,7 +4,7 @@
 * 🌱 I’m currently learning everything i wonder :stuck_out_tongue_winking_eye:
 
 
-![email](icons/email.png,https://google.com)
+<a href="mailto:hasimensarkavak@gmail.com"><img src="icons/email.png"></a>
 
 
 <!--
