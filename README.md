@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **.Net,Golang and everything i wonder :stuck_out_tongue_winking_eye:**
 
-<h2 align="left">:telephone_receiver: Contact Me:</h2>
+<h3 align="left">:telephone_receiver: Contact Me:</h3>
 <p align="left">
  <a href="mailto:hasimensarkavak@gmail.com" target="blank"><img align="center" src="icons/email.png" alt="hasimensarkavak" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/hasimensarkavak" target="blank"><img align="center" src="icons/linkedin.png" alt="hasimensarkavak" height="40" width="40" /></a>
@@ -17,7 +17,7 @@
 
 
 
-## Hi, I'm Ensar 👋
+<!-- ## Hi, I'm Ensar 👋
 
 * 🔭 I’m currently DEU Computer Science student (3/4) 📝
 * 🌱 I’m currently learning everything i wonder :stuck_out_tongue_winking_eye:
@@ -33,7 +33,7 @@
 
 
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasimensarkavak)](https://github.com/hasimensarkavak/github-readme-stats) -->
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasimensarkavak)](https://github.com/hasimensarkavak/github-readme-stats) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasimensarkavak)](https://github.com/hasimensarkavak/github-readme-stats) -->
 <!--
