@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ensar</h1>
 <h3 align="center">I’m currently DEU Computer Science student (4/4) 📝</h3>
 
-- 🌱 I’m currently learning **.Net, Golang and everything i wonder :stuck_out_tongue_winking_eye:**
+- 🌱 I’m currently learning **.Net, Flutter and everything i wonder :stuck_out_tongue_winking_eye:**
 
 <h3 align="left">:telephone_receiver: Contact Me:</h3>
 <p align="left">
