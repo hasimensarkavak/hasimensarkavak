@@ -7,7 +7,7 @@
 <p align="left">
  <a href="mailto:hasimensarkavak@gmail.com" target="blank"><img align="center" src="icons/email.png" alt="hasimensarkavak" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/hasimensarkavak" target="blank"><img align="center" src="icons/linkedin.png" alt="hasimensarkavak" height="40" width="40" /></a>
-<a href="https://instagram.com/ensar__kavak" target="blank"><img align="center" src="icons/instagram (1).png" alt="ensar__kavak" height="40" width="40" /></a>
+<!-- <a href="https://instagram.com/ensar__kavak" target="blank"><img align="center" src="icons/instagram (1).png" alt="ensar__kavak" height="40" width="40" /></a>-->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
