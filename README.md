@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ensar</h1>
-<h3 align="center">I’m currently DEU Computer Science student (4/4) 📝</h3>
+<h3 align="center">I’m currently Mid Level Application Engineer</h3>
 
 - 🔭 I’m currently working on **.Net, Flutter**
 - 🌱 I’m currently learning **IoT technologies, Arduino and everything i wonder :stuck_out_tongue_winking_eye:**
